@@ -1,0 +1,12 @@
+#ifndef _FUNCIONES
+#define _FUNCIONES
+
+bool esPrimo(int n);
+
+
+
+
+
+
+
+#endif
